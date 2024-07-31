@@ -52,7 +52,7 @@ if btn:
                 # Extracting Taxonomy
                 taxonomy_keys=i['taxonomy'].keys()
                 for key in taxonomy_keys:
-                        modified_key=''.join(i for i in key.split("_"))
-                        showFeatures(key.title(),i['taxonomy'][key])
+                        modified_key=' '.join(i for i in key.split("_"))
+                        showFeatures(modified_key,i['taxonomy'][key])
         else:
             st.warning("Oops! No Data for This Animal")

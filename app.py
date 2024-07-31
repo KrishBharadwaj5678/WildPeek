@@ -16,7 +16,7 @@ name=st.text_input("Enter Animal Name",placeholder="king cobra")
 
 btn=st.button("Search")
 if btn:
-    api_url = 'https://api.api-ninjas.com/v1/animals?name={}'.format(name)
+    api_url = 'https://api.api-ninjas.com/v1/animals?name={}'.format(name.strip())
     response = requests.get(api_url, headers={'X-Api-Key': '2jWCY0dASiPZc7RLybXvXA==R9oC0XPKPWiGJ6k6'})
     if response.status_code == requests.codes.ok:
         data=response.json()

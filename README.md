@@ -20,7 +20,7 @@
 | Technology | Purpose |
 |------------|---------|
 | **Python** 🐍 | Core programming language for backend logic |
-| **Streamlit** 🚀 | Framework to build interactive and data-driven web apps with Python |
+| **Streamlit** 🚀 | Framework to build interactive web apps with Python |
 | **APIs** 🌐 | Used to fetch real-time animal data |
 
 ---
@@ -51,31 +51,31 @@ streamlit run app.py
 
 We welcome contributions to **Wild Peek**! Follow the steps below to contribute:
 
-## 🪝 1. Fork the Repository
+### 🪝 1. Fork the Repository
 
-## 📥 2. Clone Your Fork
+### 📥 2. Clone Your Fork
 
 ```bash
 git clone https://github.com/YOUR-USERNAME/WildPeek.git
 cd WildPeek
 ````
 
-## 🛠️ 3. Create a New Branch
+### 🛠️ 3. Create a New Branch
 
 ```bash
 git checkout -b feature/your-feature-name
 ```
 
-## 🔧 4. Make Your Changes
+### 🔧 4. Make Your Changes
 
-## ✅ 5. Commit Your Changes
+### ✅ 5. Commit Your Changes
 
 ```bash
 git add .
 git commit -m "Add: new feature that does XYZ"
 ```
 
-## 🔄 6. Push to GitHub
+### 🔄 6. Push to GitHub
 
 ```bash
 git push origin feature/your-feature-name
@@ -85,6 +85,6 @@ git push origin feature/your-feature-name
 
 Go to the original repo on GitHub and:
 
-* Click **"Compare & pull request"**
+* Click **Compare & pull request**
 * Add a descriptive title and comment
 * Submit the pull request for review

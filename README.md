@@ -1,6 +1,6 @@
 # 🐾 Wild Peek
 
-**Wild Peek** is your all-in-one animal encyclopedia. Just type an animal's name to uncover in-depth facts from species classification to behaviors, habitat, and more.
+**Wild Peek** is your all-in-one animal encyclopedia. Just type an animal's name to uncover in-depth facts from species classification to behaviors, habitat, and more. 🌍
 
 ---
 

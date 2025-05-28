@@ -9,7 +9,7 @@
 | Feature | Description |
 |--------|-------------|
 | 🔎 **Search Any Animal** | Type the name and get rich data instantly |
-| 📄 **Detailed Info** | Includes scientific name 🧬, appearance, behavior, diet 🍃, habitat 🗺️, life span, conservation status, and fun facts |
+| 📄 **Detailed Info** | Includes scientific name, appearance, behavior, diet, habitat, life span |
 | 🌓 **Dark & Light Mode Toggle** | Switch easily between light and dark themes |
 | 🌐 **Responsive Design** | Fully optimized for all screen sizes and devices |
 
@@ -25,13 +25,46 @@
 
 ---
 
-## 📦 Installation
+
+Based on your GitHub repo [WildPeek](https://github.com/KrishBharadwaj5678/WildPeek.git), which uses **Python + Streamlit**, here are the ideal **Installation Steps** you can add to your `README.md`:
+
+````markdown
+## 🛠️ Installation Steps
+
+Follow these steps to run the project locally on your machine:
+
+### 1. Clone the Repository
+```bash
+git clone https://github.com/KrishBharadwaj5678/WildPeek.git
+cd WildPeek
+````
+
+### 2. Create & Activate a Virtual Environment (optional but recommended)
 
 ```bash
-git clone https://github.com/yourusername/wild-peek.git
-cd wild-peek
-open index.html
+# For Windows
+python -m venv venv
+venv\Scripts\activate
+
+# For macOS/Linux
+python3 -m venv venv
+source venv/bin/activate
 ```
+
+### 3. Install the Required Dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+### 4. Run the Streamlit App
+
+```bash
+streamlit run app.py
+```
+
+### 5. Open in Browser
+
 ---
 
 ## 🤝 Contributing

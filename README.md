@@ -2,6 +2,8 @@
 
 **Wild Peek** is your all in one animal encyclopedia. Just type an animal's name to uncover indepth facts from species classification to behaviors, habitat, and more. 🌍
 
+![WildPeek](https://github.com/KrishBharadwaj5678/WildPeek/raw/main/WildPeekDemo.png)
+
 ---
 
 ## ✨ Features
@@ -56,7 +58,7 @@ We welcome contributions to **Wild Peek**! Follow the steps below to contribute:
 ### 📥 2. Clone Your Fork
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/WildPeek.git
+git clone https://github.com/KrishBharadwaj5678/WildPeek.git
 cd WildPeek
 ````
 

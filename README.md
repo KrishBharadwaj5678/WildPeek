@@ -1,58 +1,83 @@
-# 🐾 Wild Peek
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=KrishBharadwaj5678&label=Profile%20Views&color=brightgreen&style=for-the-badge" />
+  <img src="https://hits.sh/github.com/KrishBharadwaj5678/WildPeek.svg?style=for-the-badge&label=Repo%20Views&color=blue" />
+  <img src="https://img.shields.io/github/stars/KrishBharadwaj5678/WildPeek?style=for-the-badge&color=yellow" />
+  <img src="https://img.shields.io/github/last-commit/KrishBharadwaj5678/WildPeek?style=for-the-badge&color=orange" />
+  <img src="https://img.shields.io/github/repo-size/KrishBharadwaj5678/WildPeek?style=for-the-badge&color=blue" />
+</p>
 
-**Wild Peek** is your all in one animal encyclopedia. Just type an animal's name to uncover indepth facts from species classification to behaviors, habitat, and more. 
+<p align="center">
+  <a href="README.md">English</a> | 
+  <a href="README.pt.md">Português</a> | 
+  <a href="README.ja.md">日本語</a> | 
+  <a href="README.ru.md">Русский</a>
+</p>
 
-![WildPeek](https://github.com/KrishBharadwaj5678/WildPeek/raw/main/WildPeekDemo.png)
+<h1 align="center"><img src="https://github.com/KrishBharadwaj5678/WildPeek/raw/main/assets/icons/icon.png" width="35"/> Wild Peek</h1>
 
-## ✨ Features
+<p align="center">
+  Wild Peek is a comprehensive animal encyclopedia that provides detailed information on species classification, habitat, behavior, diet, physical characteristics, and more
+</p>
+
+![WildPeekDemo](https://github.com/KrishBharadwaj5678/WildPeek/raw/main/assets/demos/WildPeekDemo.png)
+
+<img src="https://github.com/KrishBharadwaj5678/WildPeek/raw/main/assets/readme/divider.gif" width="100%"/>
+
+## <img src="https://github.com/KrishBharadwaj5678/WildPeek/raw/main/assets/readme/features.gif" width="35"/> Features
 
 | Feature | Description |
 |--------|-------------|
-| 🔎 **Search Any Animal** | Type the name and get rich data instantly |
-| 📄 **Detailed Info** | Includes scientific name, appearance, behavior, diet, habitat, life span |
-| 🌓 **Dark & Light Mode Toggle** | Switch easily between light and dark themes |
-| 🌐 **Responsive Design** | Fully optimized for all screen sizes and devices |
+| 🔍 **Animal Search** | Search for any animal and access detailed information instantly |
+| 🐾 **Comprehensive Details** | Explore classification, habitat, appearance, behavior, diet, lifespan, and more |
+| 📱 **Responsive Interface** | Enjoy a seamless experience across desktops, tablets, and mobile devices |
 
----
+<img src="https://github.com/KrishBharadwaj5678/WildPeek/raw/main/assets/readme/divider.gif" width="100%"/>
 
-## ⚙️ Tech Stack
+## <img src="https://github.com/KrishBharadwaj5678/WildPeek/raw/main/assets/readme/techStack.gif" width="35"/> Tech Stack
 
 | Technology | Purpose |
-|------------|---------|
-| 🐍 **Python**  | Core programming language for backend logic |
-| 🚀 **Streamlit**  | Framework to build interactive web apps with Python |
-| 🌐 **APIs**  | Used to fetch real-time animal data |
+| ---------- | ------- |
+| <img src="https://skillicons.dev/icons?i=python" width="25"/> **Python** | Core programming language for backend logic |
+| <img width="25" src="https://github.com/user-attachments/assets/2baef250-af66-4ea1-bbaa-019f0eb1f5b8" /> **Streamlit** | Framework for building interactive web applications with Python |
+| <img src="https://www.svgrepo.com/show/375531/api.svg" width="25"/> **APIs** | Used to fetch real-time animal information and species data |
 
----
+<img src="https://github.com/KrishBharadwaj5678/WildPeek/raw/main/assets/readme/divider.gif" width="100%"/>
 
-## 🛠️ Installation Steps
+## <img src="https://github.com/KrishBharadwaj5678/WildPeek/raw/main/assets/readme/techStack.gif" width="35"/> Getting Started
 
-### 1. Clone the Repository
+### 1️⃣ Clone the Repository
+
 ```bash
 git clone https://github.com/KrishBharadwaj5678/WildPeek.git
-cd WildPeek
 ````
 
-### 2. Install the Required Dependencies
+### 2️⃣ Navigate to the Project
+
+```bash
+cd WildPeek
+```
+
+### 3️⃣ Install Dependencies
 
 ```bash
 pip install -r requirements.txt
 ```
 
-### 3. Run the Streamlit App
+### 4️⃣ Run the app
 
 ```bash
 streamlit run app.py
 ```
 
----
+<img src="https://github.com/KrishBharadwaj5678/WildPeek/raw/main/assets/readme/divider.gif" width="100%"/>
 
-## Contributing 🤝
+## <img src="https://github.com/KrishBharadwaj5678/WildPeek/raw/main/assets/readme/license.gif" width="35"/> License
 
-Want to contribute? Here's how:
+This project is licensed under the **MIT License**.
 
-1. 🍴 Fork the repository.
-2. 🌿 Create a new branch (`git checkout -b feature-name`).
-3. ✍️ Make your changes and commit them (`git commit -am 'Add feature-name'`).
-4. 🚀 Push to your branch (`git push origin feature-name`).
-5. 🔄 Submit a pull request to merge into the main branch.
+See the [LICENSE](LICENSE) file for more details.
+
+<p align="center">
+  <img src="https://github.com/KrishBharadwaj5678/WildPeek/raw/main/assets/readme/footer.gif" width="300px"/>
+</p>
+

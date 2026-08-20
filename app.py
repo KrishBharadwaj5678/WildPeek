@@ -4,7 +4,7 @@ import re
 
 st.set_page_config(
     page_title="Wild Peek",
-    page_icon="icon.png",
+    page_icon="./assets/icons/icon.png",
     menu_items={
         "About":"Explore Wild Peek, where you can easily access detailed information about animals from around the world. Input any animal name and uncover fascinating  characteristics, behavior, and habitat. Your ultimate source for animal knowledge!"
     }
